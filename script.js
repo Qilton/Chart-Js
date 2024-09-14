@@ -17,24 +17,24 @@ new Chart(ctx, {
 
     datasets: [
       {
-        label: "Employee",
+        label: "Indian",
         data: [12, 19, 3, 5, 2, 3, 8, 12, 15],
         borderWidth: 1,
       },
       {
-        label: "Engineer",
+        label: "American",
 
         data: [12, 19, 3, 5, 2, 3, 5, 8, 6],
         borderWidth: 1,
       },
       {
-        label: "Goverment",
+        label: "Mexican",
 
         data: [12, 19, 3, 5, 2, 3, 8, 12, 15],
         borderWidth: 1,
       },
       {
-        label: "political Parties",
+        label: "Columbian",
 
         data: [12, 19, 3, 5, 2, 3, 5, 8, 6],
         borderWidth: 1,
